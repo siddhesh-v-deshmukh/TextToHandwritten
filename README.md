@@ -33,27 +33,8 @@ Usage Instructions
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/handwritten-text-renderer.git
-cd handwritten-text-renderer
-
+git clone [https://github.com/siddhesh-v-deshmukh/TextToHandwritten)
 Prepare your .txt file with the content you want to render.
-
-Run the script:
-
-python handwritten_text_renderer.py
-
-When prompted, enter the file path to your .txt file.
-
-The script will process the text and generate a PDF file named Output.pdf in the current directory.
-
-File Structure
-
-.
-├── handwritten_text_renderer.py  # Main script
-├── fonts
-│   ├── Letters for Learners.ttf  # Handwritten-style font for text
-│   └── Power Calm.otf            # Font for watermark
-└── Output.pdf                   # Generated PDF file (created upon running the script)
 
 Customization
 
